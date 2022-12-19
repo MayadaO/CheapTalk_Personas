@@ -1,0 +1,17 @@
+textHuman	0.812667
+textHuman	0.787333
+textHuman	0.720667
+textHuman	0.712667
+textHuman	0.704000
+S#-Dale	0.704000
+S#-Trump	0.687333
+S#-Dale	0.679333
+textHuman	0.670667
+S#-Dale	0.646000
+S#-Trump	0.620667
+S#-Trump	0.610667
+S#-Dale	0.604000
+S#-Trump	0.492667
+textHuman	0.444000
+textHuman
+	0.426000

@@ -1,0 +1,9 @@
+S#-Dale	0.717500
+textHuman	0.667500
+S#-Dale	0.667500
+textHuman	0.667500
+S#-Dale	0.667500
+textHuman
+	0.652000
+textHuman	0.651000
+S#-Trump	0.649500

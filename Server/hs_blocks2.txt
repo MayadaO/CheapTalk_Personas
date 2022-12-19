@@ -1,0 +1,15 @@
+textHuman
+	0.695000
+textHuman	0.665000
+textHuman	0.650000
+textHuman	0.625000
+S#-Dale	0.602500
+S#-Trump	0.580000
+textHuman	0.575000
+S#-Dale	0.517500
+S#-Trump	0.497500
+S#-Dale	0.482500
+S#-Dale	0.472500
+textHuman	0.452500
+S#-Frank	0.362500
+textHuman	0.312500
