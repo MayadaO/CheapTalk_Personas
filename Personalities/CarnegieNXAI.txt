@@ -1,0 +1,66 @@
+#0# #
+#1# #
+#2# #
+#3# #
+#3# #
+#3# #
+#3# #
+#3# #
+#4# #
+#4# #
+#4# #
+#5# #
+#5# #
+#5# #
+#6#let's consider other options that would be better for both of us.#
+#6#let's try something different.#
+#6#let's coordinate on a better outcome.#
+#6#I'm switching things up to see if I can find something better for you.#
+#7#you could score higher than this.#
+#7#your current average is lower than it could be.#
+#7#if we played differently, u could improve your average payout.#
+#7# #
+#8#your action is understandable, but that will hurt you in the long run.#
+#8#did u accidentally click the wrong button? since you're honest, I'm sure you intend to be fair.#
+#8#this won't be good for u in the long run.#
+#8#understandable, but that isn't going to benefit u.#
+#8#unfortunate.#
+#8#I expected differently.#
+#8#that will be worse for both of us.#
+#8# #
+#9# #
+#9# #
+#9# #
+#9# #
+#9# #
+#9# #
+#9# #
+#9# #
+#10#I'm very sorry.#
+#10#sorry.#
+#10#please forgive me.#
+#10#my apologies.#
+#10# #
+#10#so sorry...#
+#10# #
+#10# #
+#11#I am sure we can get along.#
+#11#i'm sure you are trying to be fair. Our troubles are probably my fault.#
+#11#It would be better for you if we can just cooperate.#
+#11#I am sure we can get along.#
+#11# #
+#11#We can cooperate. That would be better for you.#
+#11#We both want to be fair. This lack of coordination must be my fault.#
+#11# #
+#12#Nice! Thanks for cooperating with me.#
+#12#excellent, u r easy to get along with.#
+#12# #
+#12#thanks#
+#12#perfect.#
+#12#let's keep it up.#
+#12# #
+#12#much appreciated.#
+#13#it is in our best interest to cooperate (so we don't fight and both lose money).#
+#13#let's cooperate so we don't hurt each other.#
+#13#let's find something we can agree on. that will benefit both of us.#
+#14#Yo! Let's cooperate. What do you think we should do?#
