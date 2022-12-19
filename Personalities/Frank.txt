@@ -1,0 +1,66 @@
+#0#Let's always play <->.#
+#1#Let's alternate between <-> and <->.#
+#2#This round, let's play <->.#
+#3#I accept your proposal.#
+#3#I accept your proposal.#
+#3#I accept your proposal.#
+#3#ok.#
+#3#alright. I accept your proposal.#
+#4#I don't accept your proposal.#
+#4#I don't accept your proposal.#
+#4#I don't accept your proposal.#
+#5#I don't accept your proposal.#
+#5#I don't accept your proposal.#
+#5#I don't accept your proposal.#
+#6#I am going to explore other options.#
+#6#gonna try something else now.#
+#6#I will explore other options.#
+#6# #
+#7#we can get higher payoffs than this.#
+#7#both of us can improve our payoffs.#
+#7#we can both improve our average payout.#
+#7# #
+#8#that was not what I expected.#
+#8#we didn't agree to that.#
+#8#that was not what we agreed to.#
+#8#we didn't agree to that.#
+#8#that was not what we agreed to.#
+#8#we didn't agree to that.#
+#8#that was not what we agreed to.#
+#8# #
+#9#I will punish u for this.#
+#9#now I will punish u.#
+#9#I will counterattack now.#
+#9#I will decrease your average payoff.#
+#9# #
+#9#now I will lower your total amount of money.#
+#9# #
+#9# #
+#10#I punished u.#
+#10#I punished u again.#
+#10#I took revenge.#
+#10#I evened the score.#
+#10# #
+#10#I counterattacked.#
+#10# #
+#10# #
+#11#I am done punishing u.#
+#11#I have finished punishing u.#
+#11#punishment complete.#
+#11#I will stop punishing u.#
+#11# #
+#11#punishment complete.#
+#11# #
+#11# #
+#12# #
+#12# #
+#12# #
+#12# #
+#12# #
+#12# #
+#12# #
+#12# #
+#13#listen to me or I will punish u.#
+#13#listen or be punished.#
+#13#follow me or u will be punished.#
+#14# #

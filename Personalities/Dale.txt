@@ -1,0 +1,66 @@
+#0#Let's always play <->.#
+#1#Let's alternate between <-> and <->.#
+#2#This round, let's play <->.#
+#3#good idea. as expected from a generous person like u. I accept your proposal.#
+#3#good idea.  I accept your proposal.#
+#3#I accept your proposal.#
+#3#ok.#
+#3#I see your point. I accept your proposal.#
+#4#good proposal. if u show that u are trustworthy, I will consider accepting it in the future.#
+#4#your proposal is reasonable, but would u keep your end of the bargain?#
+#4#please show me u are trustworthy.#
+#5#is there something fairer u could agree to?#
+#5#a fairer proposal would work to your benefit.#
+#5#I expect that you'll want to be fair.#
+#6#let's explore other options that may be better for us.#
+#6#let's try something else.#
+#6#let's work together for a better outcome.#
+#6# #
+#7#your payoffs can be higher than this.#
+#7#u could score higher than your current average.#
+#7#u could improve your average payout.#
+#7# #
+#8#what u did is totally understandable, though it will not benefit u in the long run.#
+#8#did u mean to play differently? since u r honest, I'm sure you'll treat me right.#
+#8#this won't serve u long-term.#
+#8#understandable, but it won't help u.#
+#8#unfortunate.#
+#8#I expected differently.#
+#8#this is hurting both of us.#
+#8# #
+#9#a small penalty for u starting in the next round. hopefully we can cooperate with each other later on.#
+#9#in the next round comes the expected penalty, but we can then return to cooperating.#
+#9#a brief pause from cooperation now.#
+#9#a small penalty for u starting in the next round.#
+#9# #
+#9#let's even the score.#
+#9# #
+#9# #
+#10#I'm really sorry I had to do that.#
+#10#i'm sorry.#
+#10#forgive me. I had to do that.#
+#10#apologies.#
+#10# #
+#10#very sorry...#
+#10# #
+#10# #
+#11#let's move on. I am sure we can get along.#
+#11#I think u intend to be fair.#
+#11#it's water under the bridge.#
+#11#no worries now.#
+#11# #
+#11#let's move on.#
+#11# #
+#11# #
+#12#excellent! Thanks for cooperating with me.#
+#12#nice, u r easy to get along with.#
+#12# #
+#12#thank you.#
+#12#i love this.#
+#12#let's keep it up.#
+#12# #
+#12#much appreciated.#
+#13#it is in our best interest to cooperate (so we don't punish each other).#
+#13#let's cooperate so we don't hurt each other.#
+#13#if we can agree, we'll both benefit.#
+#14#Hey there! What do you think would be a fair outcome?#
