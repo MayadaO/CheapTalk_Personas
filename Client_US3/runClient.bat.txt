@@ -1,0 +1,9 @@
+@echo off
+TITLE RunGames
+set path="C:\Program Files\Java\jdk-9.0.4\bin"
+set classpath=%classpath%;.;
+javac *.java
+
+java MainApp chicken2 0 2 192.168.56.101 0
+
+pause

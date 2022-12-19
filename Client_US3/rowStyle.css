@@ -1,0 +1,5 @@
+/* Selected row */
+.table-row-cell:selected .table-cell {
+    -fx-background-color: lightgrey ;
+    -fx-text-fill: black;
+}

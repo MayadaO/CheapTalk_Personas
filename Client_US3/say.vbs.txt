@@ -1,0 +1,5 @@
+'say.vbs
+set s = CreateObject("SAPI.SpVoice")
+s.Rate = 1
+s.Speak Wscript.Arguments(0)
+s.WaitUntilDone(1000)
